@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @spaolina
-- 👀 I’m interested in ML, EEG, Optogenetics, Philosophy of mind, physics, 
-- 🌱 I’m currently learning Python & R
-- 💞️ I’m looking to collaborate on a few art projects :)
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning stuff
+- 💞️ I’m looking to collaborate on a few things
 - 📫 How to reach me spaolina@orchestraX.io
 
 <!---
